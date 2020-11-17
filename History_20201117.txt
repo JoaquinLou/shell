@@ -1,0 +1,265 @@
+echo Hello world
+echo "Hello world"
+echo Hello ; world
+echo 'Hello world'
+echo $SHELL
+echo `date`
+date
+echo "$(date)"
+printenv
+history
+echo $SHELL
+echo $*date(\
+\
+()\
+(\
+)
+clear
+echo $(date)
+echo "World\
+is nice\
+and so on to be here"
+echo $TERM
+whoami
+echo $HOST
+echo "alsdkjflaskdvnc\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+"
+ echo this ';' echo that
+clear
+cat /proc/cpuinfo
+cd 
+cd books 
+..
+cd ..
+cd Data
+cd shell
+cd
+cd Data
+cd shell
+cat Text_example.txt
+
+cat -n Text_example.txt Text_example.txt Text_example.txt
+gedit Text_example.txt
+cd
+cat ./Data/shell/Text_example.txt
+ls
+ls -1
+ls -s
+ls -1 s
+ls -1 -s
+cd anaconda3
+ls
+ls -1s
+ls
+ls -lH
+cd
+ls -la
+clear
+touch file00
+ls -l file00
+chmod u+x,g-w,o+w file00
+ls -l file00
+ls -l
+mk my_first_dir
+mkdir my_first_dir
+mkdir -p my_first_dir/uno
+rm -r my_first_dir
+ls- l
+ls -l
+rm file00
+mkdir first_dir
+touch text_file.txt /first_dir
+cd /my_first_dir
+ls
+mv text_file.txt /first_dir
+mv -f text_file.txt first_dir
+ls
+ls /first_dir
+cd first_dir
+ls
+ls -s
+ls -l
+chmod g+x,o+w text_file.txt
+ls -l
+mkdir -p sub1 sub2 text-file
+cp text_file.txt /sub1
+cp text_file.txt sub1
+mv text_file.txt text_file.txt.2 sub2/
+mv -i text_file.txt text_file.txt.2 sub2/
+ls
+cd sub1
+ls
+mv text_file.txt sub2/text_file.txt.2
+clear
+git config
+git config --global user.name "Joaquin Lou"
+git config -- global user.email "joaquinlouh@gmail.com"
+git config --global user.email "joaquinlouh@gmail.com"
+cat .gitconfig
+gedit .gitconfig
+cat .gitconfig
+cd
+car .gitconfig
+cat .gitconfig
+pwd
+mkdir git
+cd git
+echo "# shell" >> README.md
+ls
+cat README.md
+git init
+git config --get user.name
+ll
+ls
+pwd
+git add README.md
+git status
+clear
+history
+git commit -m "First commit adding README.md"
+git branch -M main
+git branch -M master
+git status
+git remote add origin https://github.com/JoaquinLou/shell.git
+git push -u origin master
+vim README.md
+git history
+pwd
+cd git
+git status
+pwd
+cd
+cd git
+vim README.md
+git push -u master
+git push -u origin master
+git config --global credential.helper store
+pwd
+cd ..
+cd
+cd Data/opentraveldata
+ll
+head optd_aircraft.csv
+tail -n 1 optd_aircraft.csv
+less optd_airlines.csv
+less optd_aircraft.csv
+tree
+--help
+man --help
+cd
+cd Data
+cd 
+cd Data/shell
+less Finn.txt
+echo $path
+cd
+ll
+bash
+exit
+ll
+wich bash
+which bash
+exit
+ll
+echo "Hola mundo"
+echo "Hola mundo" > pp.txt
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo $HISTFILE
+tail -n 5 /home/dsc/.history
+ls -ls
+clear
+cp /home/dsc/.history /home/dsc/git/
+cd /home/dsc/git
+ll
+ll -a
+cd
+ll
+ll -a
+ls-a
+ls -a
+clear
+cd /git
+cd
+cd git
+git status
+git add .history
+git commit
+cd
+ll
+cd git
+ll
+git status
+git push 
+cd
+cd/ Data
+cd/data
+ll
+data/
+cd Data
+cd shell
+ll
+wx Text_example.txt
+wc Text_example.txt
+cat Text_example.txt
+cat Text_example.txt | wc -l
+wx Text_example.txt
+wc Text_example.txt
+ll
+cd ..
+ll
+cd opentraveldata
+tail -c -1k optd_aircraft.csv| wc
+head -c -1k optd_aircraft.csv| wc
+ll -s
+ll
+ll optd_por_public.csv
+ls -s
+clear
+ls -sr
+ls -sslr
+ls -sS
+ls -sSr
+ls -sSrl
+ls -sSrl | tail -n 1 > largest_file.txt
+cat largest_file.txt
+cd ..
+cd Data
+cd shell
+ll
+head -n 5 Finn.txt
+wc -w < Finn.txt
+head -n 5 < Finn.txt | wc -w
+cat -n Text_example.txt|head -n 3ç
+cat -n Text_example.txt|head -n 3
+ll
+cat -n Text_example.txt > Text_example_line.txt
+cat head Text_example_line.txt
+Text_example.txt | Text_example.txt > Text_example_x3.txt
+cat Text_example.txt | cat Text_example.txt > Text_example_x3.txt
+cat Text_example_x3.txt
+cat Text_example.txt > Text_example_x3.txt
+cat Text_example_x3.txt
+history
+echo "World\
+is nice\
+and so on to be here"
+ll
+cd
+cd git
+ls lrt
+ls -lrt
+cp $HISTFILE ~/git/
+ls -lrt
+cp $HISTFILE ~/git/History_20201117.txt
